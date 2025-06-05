@@ -14,7 +14,9 @@ from DateTimeModel import DateModel,DateTimeModel,UniqueIdentificationNumber
 from typing import Literal
 
 import pandas as pd
-df = pd.read_csv("data\doctor_availability.csv")
+import os
+df = pd.read_csv(os.path.join("data", "doctor_availability.csv"))
+
 
 
 class question_check(BaseModel):
