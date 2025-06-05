@@ -14,7 +14,7 @@ from DateTimeModel import DateModel,DateTimeModel,UniqueIdentificationNumber
 from typing import Literal
 
 import pandas as pd
-df = pd.read_csv(r"D:\Doctor_Appointment_System\data\doctor_availability.csv")
+df = pd.read_csv("data\doctor_availability.csv")
 
 
 class question_check(BaseModel):
