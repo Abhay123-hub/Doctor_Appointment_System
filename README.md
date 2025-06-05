@@ -152,6 +152,6 @@ If you're into GenAI and want to collab or chat — feel free to reach out!
 
 ---
 
-Let me know if you want a **LinkedIn post version** of this or want to turn this into a **Streamlit app** with UI – I’ve got your back! 💻✨
+
 ```
 
