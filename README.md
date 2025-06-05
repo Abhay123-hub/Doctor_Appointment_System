@@ -146,7 +146,6 @@ If you're into GenAI and want to collab or chat — feel free to reach out!
 
 ---
 
-> “The goal is simple: let users speak naturally, and let AI do the scheduling magic behind the scenes.”
 
 ```
 
