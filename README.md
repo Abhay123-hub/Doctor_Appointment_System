@@ -1,9 +1,4 @@
 
-Sure Abhay! Here's a **natural-sounding `README.md`** version — less like a tech manual and more like you're just talking to a fellow developer or recruiter reading your repo. You can copy this whole thing at once 👇:
-
----
-
-````markdown
 # 🩺 Doctor Appointment Chat System — Powered by LangGraph, LangChain, and FastAPI
 
 This project is a smart conversational assistant for managing doctor appointments using natural language. Whether a user wants to book, cancel, or reschedule a session, this system understands their request and takes care of the action by updating doctor availability behind the scenes.
