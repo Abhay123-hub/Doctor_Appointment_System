@@ -10,4 +10,3 @@ langchain_core
 fastapi
 uvicorn
 
--e .
